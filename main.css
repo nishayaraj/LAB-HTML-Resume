@@ -1,0 +1,23 @@
+#Company1{
+  font-family: 'Times New Roman', Times, serif;
+  border: 2px solid black;
+  
+}
+
+#Company2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 4px dotted goldenrod;
+}
+
+#Company3{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 6px dashed slategray;
+}
+
+h2{
+  color: firebrick;
+}
+
+body{
+  background-color: cornflowerblue;
+}
